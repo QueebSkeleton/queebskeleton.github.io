@@ -1,0 +1,7 @@
+- name: Docker
+  percentage: 70
+  color: primary
+
+- name: Git
+  percentage: 75
+  color: light
