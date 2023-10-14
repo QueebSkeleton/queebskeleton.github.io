@@ -7,7 +7,7 @@ permalink: /
 <section class="row justify-content-center mt-5 mb-5">
   <div class="col-lg-4 col-md-6 text-center mt-4">
     <img src="{{ site.author.image }}" alt="{{ site.title }}"
-      class="circle-image wow animated zoomIn"
+      class="img-fluid rounded-circle wow animated zoomIn"
       data-wow-delay=".1s"/>
   </div>
   <div class="col-lg-4 col-md-6 mt-4 align-items-center">
@@ -20,6 +20,11 @@ permalink: /
     <p>
       I also am capable of <b>Systems Design</b>, whipping up architectural
       plans for your solution needs.
+    </p>
+    <p>
+      I also love to read technical documentations of tech I learn as a
+      side hobby, including randomly programming stuff. Other than that,
+      I enjoy playing simulation type games like RimWorld and Factorio.
     </p>
   </div>
 </section>

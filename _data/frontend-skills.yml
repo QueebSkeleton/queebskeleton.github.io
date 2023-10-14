@@ -1,0 +1,15 @@
+- name: HTML
+  docs: https://developer.mozilla.org/en-US/docs/Web/HTML
+  badge: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+
+- name: CSS
+  docs: https://developer.mozilla.org/en-US/docs/Web/CSS
+  badge: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+
+- name: JS
+  docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  badge: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+
+- name: React.JS
+  docs: https://react.dev
+  badge: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB

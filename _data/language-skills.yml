@@ -1,0 +1,7 @@
+- name: Python
+  docs: https://www.python.org
+  badge: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+
+- name: PHP
+  docs: https://www.php.net
+  badge: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white

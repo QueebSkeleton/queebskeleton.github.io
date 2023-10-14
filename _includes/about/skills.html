@@ -1,0 +1,6 @@
+{% for skill in include.source %}
+  <a href="{{ skill.docs }}">
+    <img src="{{ skill.badge }}" alt="{{ skill.name }}"
+      class="m-0" />
+  </a>
+{% endfor %}

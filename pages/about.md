@@ -21,10 +21,28 @@ I have laid down the foundational backend of this platform and successfully
 integrated the interfaces made by the other teams, and the company still
 builds from this solution until now.
 
-<div class="row">
-  {% include about/skills.html source=site.data.programming-skills %}
-  {% include about/skills.html source=site.data.other-skills %}
-</div>
+<section class="row justify-content-center mt-4 mb-4">
+  <div class="col-md-4 p-3">
+    <h3>Frontend</h3>
+    {% include about/skills.html source=site.data.frontend-skills %}
+  </div>
+  <div class="col-md-4 p-3">
+    <h3>Backend</h3>
+    {% include about/skills.html source=site.data.backend-skills %}
+  </div>
+  <div class="col-md-4 p-3">
+    <h3>Database</h3>
+    {% include about/skills.html source=site.data.database-skills %}
+  </div>
+  <div class="col-md-4 p-3">
+    <h3>Languages</h3>
+    {% include about/skills.html source=site.data.language-skills %}
+  </div>
+  <div class="col-md-4 p-3">
+    <h3>Others</h3>
+    {% include about/skills.html source=site.data.other-skills %}
+  </div>
+</section>
 
 <section class="mb-5">
   <h2>My Education</h2>
