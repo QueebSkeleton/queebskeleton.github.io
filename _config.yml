@@ -33,10 +33,10 @@ author:
 
 
 ### Posts ###
-permalink: /blog/:title
+# permalink: /blog/:title
 
 
-### Collections ###
+## Collections ###
 collections:
   projects:
     output: true
@@ -49,10 +49,10 @@ collections:
 
 
 ### Analytics ###
-analytics:
-  enabled: false                                        # Set true to enable analytics
-  google:
-    tracking_id: your-google-tracking-id
+# analytics:
+#   enabled: false                                        # Set true to enable analytics
+#   google:
+#     tracking_id: your-google-tracking-id
 
 
 ### Buy me a coffee ###
