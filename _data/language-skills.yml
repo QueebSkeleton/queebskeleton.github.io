@@ -5,3 +5,7 @@
 - name: PHP
   docs: https://www.php.net
   badge: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+
+- name: Java
+  docs: https://www.java.com/en/
+  badge: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white

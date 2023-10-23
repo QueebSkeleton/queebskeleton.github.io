@@ -83,6 +83,7 @@ builds from this solution until now.
             </li>
             <li>
               <b>Final Project</b>: E-Commerce Online Food Ordering System
+              using Java Servlets, JSP
             </li>
           </ul>
         </div>
